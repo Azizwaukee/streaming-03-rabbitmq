@@ -1,4 +1,4 @@
-# streaming-03-rabbitmq
+# Amaara streaming-03-rabbitmq
 
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
@@ -76,7 +76,7 @@ python util_aboutrabbit.py
 pip list
 ```
 
-![verifying setup](./images/verify-setup.png)
+![verifying setup](./images/Capture3.jpg) (.images/Capture4.jpg)
 
 
 ## Task 5. Read

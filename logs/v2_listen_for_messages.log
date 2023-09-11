@@ -1,7 +1,7 @@
-2023-09-10 15:28:47,551.v2_listen_for_messages.INFO ==================================================
-2023-09-10 15:28:47,557.v2_listen_for_messages.INFO Today is 2023-09-10 at 03:28 PM
-2023-09-10 15:28:47,558.v2_listen_for_messages.INFO Running on: nt Windows 10
-2023-09-10 15:28:47,559.v2_listen_for_messages.INFO Python version:  3.11.5
-2023-09-10 15:28:47,560.v2_listen_for_messages.INFO Python path: C:\Users\amaar\OneDrive\Desktop\NW\Data Streaming\streaming-03-rabbitmq\.venv
-2023-09-10 15:28:47,568.v2_listen_for_messages.INFO Working dir: C:\Users\amaar\OneDrive\Desktop\NW\Data Streaming\streaming-03-rabbitmq
-2023-09-10 15:28:47,572.v2_listen_for_messages.INFO ==================================================
+2023-09-10 19:31:13,553.v2_listen_for_messages.INFO ==================================================
+2023-09-10 19:31:13,564.v2_listen_for_messages.INFO Today is 2023-09-10 at 07:31 PM
+2023-09-10 19:31:13,564.v2_listen_for_messages.INFO Running on: nt Windows 10
+2023-09-10 19:31:13,565.v2_listen_for_messages.INFO Python version:  3.11.5
+2023-09-10 19:31:13,565.v2_listen_for_messages.INFO Python path: C:\Users\amaar\OneDrive\Desktop\NW\Data Streaming\streaming-03-rabbitmq\.venv
+2023-09-10 19:31:13,565.v2_listen_for_messages.INFO Working dir: C:\Users\amaar\OneDrive\Desktop\NW\Data Streaming\streaming-03-rabbitmq
+2023-09-10 19:31:13,566.v2_listen_for_messages.INFO ==================================================
