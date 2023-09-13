@@ -76,7 +76,7 @@ python util_aboutrabbit.py
 pip list
 ```
 
-![verifying setup](./images/Capture3.jpg) (.images/Capture4.jpg)
+![verifying setup](./images/Capture3.jpg) (./images/Capture4.jpg)(./images/Capture4.jpg)(./images/Capture5.jpg)(./images/Capture6.jpg)(./images/Capture7.jpg)(./images/Capture8.jpg)(./images/Capture9.jpg)(./images/Capture10.jpg)
 
 
 ## Task 5. Read
