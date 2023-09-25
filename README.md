@@ -76,6 +76,10 @@ python util_aboutrabbit.py
 pip list
 ```
 
+# Markdown and Visual Studio Code!
+[Alt text](images/Capture1.JPG)![Alt text](images/Capture2.JPG)![Alt text](images/Capture3.JPG)![Alt text](images/Capture4.JPG)![Alt text](images/Capture5.JPG)![Alt text](images/Capture6.JPG)![Alt text](images/Capture7.JPG)![Alt text](images/Capture8.JPG)![Alt text](images/Capture9.JPG)![Alt text](images/Capture10.JPG)![Alt text](images/exploring_dot_venv.PNG)
+
+
 ![verifying setup](./images/Capture3.jpg) (./images/Capture4.jpg)(./images/Capture4.jpg)(./images/Capture5.jpg)(./images/Capture6.jpg)(./images/Capture7.jpg)(./images/Capture8.jpg)(./images/Capture9.jpg)(./images/Capture10.jpg)
 
 
